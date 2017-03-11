@@ -1,0 +1,70 @@
+#header.header-sm #topNav a.logo{
+    position: absolute;
+    background-color: #fff;
+    height: auto;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+section.page-header h1 {
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+    font-weight: 500;
+}
+#header.header-sm #topNav a.logo>img{
+    height: 150px;
+}
+
+.footer-logo{
+  width: 60%;
+    background-color: transparent !important;
+}
+#footer a.social-icon.social-icon-border {
+    background-color: transparent;
+    border: #fff 1px solid;
+    color: #ffffff !important;
+    text-shadow: none;
+}
+#topMain.nav-pills>li.active>a{
+    color: #fff;
+    background-color: #000;
+}
+#footer{
+    background: linear-gradient(to bottom, #000000 0%,#313131 100%);
+}
+#footer>.container {
+    padding-top: 30px;
+    margin-bottom: 20px;
+}
+p,a,.btn{
+    font-family: 'Raleway','Open Sans'!important;
+}
+#map iframe{
+    height: 400px;
+width: 100%;
+}
+.popout-container{
+    padding: 5px;
+    border: 1px solid rgba(0,0,0,.2);
+    background-color: none;
+    border-radius: 5px;
+    margin: 5px;
+    position: absolute;
+    left: 60%;
+    display: none;
+}
+.popot-container input{
+    margin: 5px;
+}
+.done{
+    margin: 5px auto !important;
+    
+    transition: 1s;
+    width: 100%;
+   
+    
+}
+.margin-auto{
+    margin: 0px auto !important;
+    display: block;
+}
